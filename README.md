@@ -1,2 +1,2 @@
-# pacman
+# Reverse Pacman
 pacman spinoff
